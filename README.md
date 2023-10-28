@@ -3,7 +3,7 @@
 
 - 🔭 I am currently studying at **Del Institute of Technology**
 
-- 👨‍💻 All of my projects are available at [mitshua19 <a href="https://github.com/mitsuha19](https://github.com/mitsuha19">)
+- 👨‍💻 All of my projects are available at [https://github.com/mitsuha19](https://github.com/mitsuha19)
 
 - 📫 How to reach me **rohitpanjaitan7@gmail.com**
 
